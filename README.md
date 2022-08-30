@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Stats
-![info](https://github-readme-stats.vercel.app/api?username=FireTable&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=FireTable&show_icons=true&count_private=true&theme=default_repocard)
