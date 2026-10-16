@@ -2,8 +2,7 @@
 - 🔭 前端：React / JavaScript / TypeScript
 - 🔧 全栈：Node.js / SQLite / MongoDB
 - 📌 正在寻找 Node.js / 全栈方向的工作机会
-- 🌱 最近在学习
-  - 🤖 AI Agent 开发
+- 🌱 最近在好好生活
   - 🌐 探索 AI 和人共处的方式
   - 🖨️ 3D 打印
 - 🐱 猫奴：大小姐（布偶）、双十一（缅因串）、发财（金渐层）、哈基妹（彩狸）
