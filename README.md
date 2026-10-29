@@ -50,7 +50,7 @@
 
 ### Tech Stack & Architecture / 技术图谱
 
-<div><img src="https://skillicons.dev/icons?i=ts,react,vite,threejs,python,wasm,cloudflare,postgres,docker&theme=dark" height="28" alt="Core Tech Stack" /></div>
+<div align="center"><img src="https://skillicons.dev/icons?i=ts,react,vite,threejs,python,wasm,cloudflare,postgres,docker&theme=dark" height="32" alt="Core Tech Stack" /></div>
 
 - **Autonomous Agents & Local ML** — `LangGraph` · `WebLLM (Qwen3)` · `ONNX Runtime Web` · `ComfyUI` · `MCP`
 - **3D Graphics & Interactive Web** — `Three.js` · `VRM 骨骼驱动` · `Phaser 4` · `React 18` · `Tailwind CSS`
