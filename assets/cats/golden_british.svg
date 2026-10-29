@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- Background Circle Badge -->
+  <circle cx="50" cy="50" r="48" fill="#FFFBEB" stroke="#FDE68A" stroke-width="2.5"/>
+  <!-- Small Rounded Ears -->
+  <path d="M22 42 Q23 16 38 24 Q44 32 42 42 Z" fill="#D97706" stroke="#B45309" stroke-width="1.2"/>
+  <path d="M26 38 Q28 22 36 28 Z" fill="#FDA4AF"/>
+  <path d="M78 42 Q77 16 62 24 Q56 32 58 42 Z" fill="#D97706" stroke="#B45309" stroke-width="1.2"/>
+  <path d="M74 38 Q72 22 64 28 Z" fill="#FDA4AF"/>
+  <!-- Super Round Chubby Face -->
+  <ellipse cx="50" cy="55" rx="36" ry="32" fill="#F59E0B"/>
+  <!-- Shaded Fur Tips (Golden Shaded gradient effect) -->
+  <ellipse cx="50" cy="48" rx="30" ry="24" fill="#FBBF24"/>
+  <!-- Chubby Cheek Pads -->
+  <ellipse cx="38" cy="67" rx="13" ry="10" fill="#FEF3C7"/>
+  <ellipse cx="62" cy="67" rx="13" ry="10" fill="#FEF3C7"/>
+  <!-- Eyes (Big Round Emerald Green with Eyeliner) -->
+  <circle cx="36" cy="51" r="7.5" fill="#047857"/>
+  <circle cx="36" cy="51" r="6" fill="#10B981"/>
+  <circle cx="36" cy="51" r="4" fill="#064E3B"/>
+  <circle cx="34" cy="49" r="2" fill="#FFFFFF"/>
+  <circle cx="64" cy="51" r="7.5" fill="#047857"/>
+  <circle cx="64" cy="51" r="6" fill="#10B981"/>
+  <circle cx="64" cy="51" r="4" fill="#064E3B"/>
+  <circle cx="62" cy="49" r="2" fill="#FFFFFF"/>
+  <!-- Brick Pink Nose with Black Rim -->
+  <path d="M46.5 61 Q50 59 53.5 61 L51 65 Q50 66 49 65 Z" fill="#F87171" stroke="#78350F" stroke-width="1"/>
+  <!-- Mouth -->
+  <path d="M50 65 L50 68 Q46 72 40 69 M50 68 Q54 72 60 69" fill="none" stroke="#78350F" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="30" y1="67" x2="14" y2="65" stroke="#D97706" stroke-width="1.3" stroke-linecap="round"/>
+  <line x1="30" y1="70" x2="16" y2="73" stroke="#D97706" stroke-width="1.3" stroke-linecap="round"/>
+  <line x1="70" y1="67" x2="86" y2="65" stroke="#D97706" stroke-width="1.3" stroke-linecap="round"/>
+  <line x1="70" y1="70" x2="84" y2="73" stroke="#D97706" stroke-width="1.3" stroke-linecap="round"/>
+</svg>

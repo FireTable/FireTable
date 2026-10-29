@@ -3,7 +3,7 @@
 # Hi, I'm FireTable
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&height=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI+Agent+Engineer;Browser-Native+Machine+Learning;Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&height=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=AI+Agent+Engineer;Browser-Native+Machine+Learning;Creative+Technologist" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -15,8 +15,9 @@
 </p>
 
 <p align="center">
-  探索人与自主智能体（Autonomous Agents）的高阶共存形态。<br>
-  专注于 <b>端侧轻量化神经计算（WebLLM / WASM）</b>、<b>Multi-Agent 协作架构</b> 与 <b>3D 创意图形交互</b>，致力于在浏览器端实现零服务器成本的本地 AI 体验。
+  <b>代码在端侧，灵魂在云端。</b><br>
+  探索 <b>Autonomous Agents</b> 与现实的共存边界<br>
+  让大模型脱离黑盒服务器，在浏览器中拥有实体与呼吸
 </p>
 
 </div>
@@ -49,27 +50,22 @@
 
 ### Tech Stack & Architecture / 技术图谱
 
-- **AI & Autonomous Agents**  
-  <img src="https://skillicons.dev/icons?i=python,wasm,docker&theme=dark" height="26" alt="AI stack" />  
-  `LangGraph (StateGraph)` · `WebLLM (Qwen3)` · `ONNX Runtime Web` · `assistant-ui` · `ComfyUI` · `Model Context Protocol (MCP)`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,threejs,python,wasm,postgres,cloudflare,docker&theme=dark" height="34" alt="Core Tech Stack" />
+</p>
 
-- **Frontend, Graphics & 3D Web**  
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,threejs,tailwind&theme=dark" height="26" alt="Frontend stack" />  
-  `TypeScript` · `React 18` · `Vite` · `Three.js` · `VRM Avatar 骨骼驱动` · `Phaser 4 游戏引擎` · `Tailwind CSS`
-
-- **Cloud, Edge & Infrastructure**  
-  <img src="https://skillicons.dev/icons?i=cloudflare,postgres,sqlite,linux,bash&theme=dark" height="26" alt="Cloud stack" />  
-  `Cloudflare (Workers / Pages / D1 / R2)` · `PostgreSQL` · `SQLite` · `Docker` · `Linux / Shell` · `Zero-Trust`
+- **Autonomous Agents & Local ML** — `LangGraph (StateGraph)` · `WebLLM (Qwen3)` · `ONNX Runtime Web` · `ComfyUI` · `MCP` · `assistant-ui`
+- **3D Graphics & Interactive Web** — `TypeScript` · `React 18` · `Three.js` · `VRM Avatar 骨骼驱动` · `Phaser 4 引擎` · `Vite` · `Tailwind CSS`
+- **Cloud, Edge & Infra** — `Cloudflare (Workers / Pages / D1 / R2)` · `PostgreSQL` · `SQLite` · `Docker` · `Linux / Shell` · `Zero-Trust`
 
 ---
 
 ### The Board of Directors / 首席猫咪督工天团
 
-- **大小姐**（布偶）— 首席颜值官 · *在屏幕旁静止散发可爱，治愈一切 Debug 焦虑*
-- **双十一**（缅因串）— 算力监察专员 · *热衷于用肉垫物理审计回车键与键盘敲击回弹*
-- **发财**（金渐层）— 财富与灵感导师 · *高频呼噜声是进入深度心流的最佳白噪音*
-- **哈基妹**（彩狸）— 创意质检总监 · *负责全屋 Bug 物理级巡检与夜间跑酷调度*
-- **创客角落**（Maker Space）— 物理载体研发 · *业余热衷于 3D 打印结构建模与硬件改装，致力于让数字智能体拥有现实实体躯壳*
+- <img src="https://raw.githubusercontent.com/FireTable/FireTable/main/assets/cats/ragdoll.svg" width="24" height="24" valign="middle" alt="大小姐" /> **大小姐**（布偶）— 首席颜值官 · *在屏幕旁静止散发可爱，治愈一切 Debug 焦虑*
+- <img src="https://raw.githubusercontent.com/FireTable/FireTable/main/assets/cats/maine_coon.svg" width="24" height="24" valign="middle" alt="双十一" /> **双十一**（缅因串）— 算力监察专员 · *热衷于用肉垫物理审计回车键与键盘敲击回弹*
+- <img src="https://raw.githubusercontent.com/FireTable/FireTable/main/assets/cats/golden_british.svg" width="24" height="24" valign="middle" alt="发财" /> **发财**（金渐层）— 财富与灵感导师 · *高频呼噜声是进入深度心流的最佳白噪音*
+- <img src="https://raw.githubusercontent.com/FireTable/FireTable/main/assets/cats/torbie_tabby.svg" width="24" height="24" valign="middle" alt="哈基妹" /> **哈基妹**（彩狸）— 创意质检总监 · *负责全屋 Bug 物理级巡检与夜间跑酷调度*
 
 ---
 
