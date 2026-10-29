@@ -50,13 +50,11 @@
 
 ### Tech Stack & Architecture / 技术图谱
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,threejs,python,wasm,postgres,cloudflare,docker&theme=dark" height="34" alt="Core Tech Stack" />
-</p>
+<div><img src="https://skillicons.dev/icons?i=ts,react,vite,threejs,python,wasm,cloudflare,postgres,docker&theme=dark" height="28" alt="Core Tech Stack" /></div>
 
-- **Autonomous Agents & Local ML** — `LangGraph (StateGraph)` · `WebLLM (Qwen3)` · `ONNX Runtime Web` · `ComfyUI` · `MCP` · `assistant-ui`
-- **3D Graphics & Interactive Web** — `TypeScript` · `React 18` · `Three.js` · `VRM Avatar 骨骼驱动` · `Phaser 4 引擎` · `Vite` · `Tailwind CSS`
-- **Cloud, Edge & Infra** — `Cloudflare (Workers / Pages / D1 / R2)` · `PostgreSQL` · `SQLite` · `Docker` · `Linux / Shell` · `Zero-Trust`
+- **Autonomous Agents & Local ML** — `LangGraph` · `WebLLM (Qwen3)` · `ONNX Runtime Web` · `ComfyUI` · `assistant-ui` · `MCP`
+- **3D Graphics & Interactive Web** — `Three.js` · `VRM Avatar 骨骼驱动` · `Phaser 4` · `React 18` · `Tailwind CSS`
+- **Cloud, Edge & Infra** — `Cloudflare (Workers / Pages / D1 / R2)` · `PostgreSQL` · `SQLite` · `Docker` · `Zero-Trust`
 
 ---
 
