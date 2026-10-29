@@ -50,19 +50,20 @@
 
 ### Tech Stack & Architecture / 技术图谱
 
-- <img src="assets/icons/langgraph.svg" width="20" height="20" valign="middle" /> **Autonomous Agents & Local ML** — 异步双图流式编排 · 100% 浏览器本地离线推理  
-  <code><img src="assets/icons/langgraph.svg" width="14" height="14" valign="middle" /> LangGraph</code> · <code><img src="assets/icons/webllm.svg" width="14" height="14" valign="middle" /> WebLLM (Qwen3)</code> · <code><img src="assets/icons/onnx.svg" width="14" height="14" valign="middle" /> ONNX Runtime Web</code> · <code><img src="assets/icons/comfyui.svg" width="14" height="14" valign="middle" /> ComfyUI</code> · <code><img src="assets/icons/mcp.svg" width="14" height="14" valign="middle" /> MCP</code>
+- <img src="assets/icons/typescript.svg" width="20" height="20" valign="middle" /> **Languages & Runtimes** — 编程语言与核心运行时  
+  <code><img src="assets/icons/typescript.svg" width="14" height="14" valign="middle" /> TypeScript</code> · <code><img src="assets/icons/python.svg" width="14" height="14" valign="middle" /> Python</code> · <code><img src="assets/icons/node.svg" width="14" height="14" valign="middle" /> Node.js</code> · <code><img src="assets/icons/wasm.svg" width="14" height="14" valign="middle" /> WebAssembly</code>
 
-- <img src="assets/icons/threejs.svg" width="20" height="20" valign="middle" /> **3D Graphics & Creative Web** — VRM 全身骨骼姿态驱动 · 创意 3D 着色器交互与 Web 游戏  
-  <code><img src="assets/icons/typescript.svg" width="14" height="14" valign="middle" /> TypeScript</code> · <code><img src="assets/icons/threejs.svg" width="14" height="14" valign="middle" /> Three.js</code> · <code><img src="assets/icons/vrm.svg" width="14" height="14" valign="middle" /> VRM 骨骼驱动</code> · <code><img src="assets/icons/react.svg" width="14" height="14" valign="middle" /> React 18</code> · <code><img src="assets/icons/phaser.svg" width="14" height="14" valign="middle" /> Phaser 4</code> · <code><img src="assets/icons/tailwind.svg" width="14" height="14" valign="middle" /> Tailwind CSS</code>
+- <img src="assets/icons/langgraph.svg" width="20" height="20" valign="middle" /> **AI & Intelligent Agents** — 智能体编排与端侧推理  
+  <code><img src="assets/icons/langgraph.svg" width="14" height="14" valign="middle" /> LangGraph</code> · <code><img src="assets/icons/webllm.svg" width="14" height="14" valign="middle" /> WebLLM</code> · <code><img src="assets/icons/onnx.svg" width="14" height="14" valign="middle" /> ONNX Runtime Web</code> · <code><img src="assets/icons/comfyui.svg" width="14" height="14" valign="middle" /> ComfyUI</code> · <code><img src="assets/icons/mcp.svg" width="14" height="14" valign="middle" /> MCP Protocol</code>
 
-- <img src="assets/icons/node.svg" width="20" height="20" valign="middle" /> **Modern Data & Backend** — 企业级高并发异步闭环 · pgvector 三路向量混合检索  
-  <code><img src="assets/icons/node.svg" width="14" height="14" valign="middle" /> Node.js</code> · <code><img src="assets/icons/postgresql.svg" width="14" height="14" valign="middle" /> PostgreSQL (pgvector)</code> · <code><img src="assets/icons/drizzle.svg" width="14" height="14" valign="middle" /> Drizzle ORM</code> · <code><img src="assets/icons/sqlite.svg" width="14" height="14" valign="middle" /> SQLite</code>
+- <img src="assets/icons/react.svg" width="20" height="20" valign="middle" /> **Frontend & 3D Interactive** — 现代前端与图形交互  
+  <code><img src="assets/icons/react.svg" width="14" height="14" valign="middle" /> React 19</code> · <code><img src="assets/icons/nextdotjs.svg" width="14" height="14" valign="middle" /> Next.js</code> · <code><img src="assets/icons/threejs.svg" width="14" height="14" valign="middle" /> Three.js</code> · <code><img src="assets/icons/vrm.svg" width="14" height="14" valign="middle" /> VRM 骨骼驱动</code> · <code><img src="assets/icons/phaser.svg" width="14" height="14" valign="middle" /> Phaser 4</code> · <code><img src="assets/icons/tailwind.svg" width="14" height="14" valign="middle" /> Tailwind CSS</code> · <code><img src="assets/icons/vite.svg" width="14" height="14" valign="middle" /> Vite</code>
 
-- <img src="assets/icons/cloudflare.svg" width="20" height="20" valign="middle" /> **Cloud, Edge & Infra** — 零闲置成本边缘矩阵 · 穿透直连隧道与容器安全加固  
-  <code><img src="assets/icons/cloudflare.svg" width="14" height="14" valign="middle" /> Cloudflare (Workers / D1 / R2)</code> · <code><img src="assets/icons/docker.svg" width="14" height="14" valign="middle" /> Docker</code> · <code><img src="assets/icons/tailscale.svg" width="14" height="14" valign="middle" /> Zero-Trust</code>
+- <img src="assets/icons/postgresql.svg" width="20" height="20" valign="middle" /> **Backend & Data Systems** — 服务端架构与数据持久化  
+  <code><img src="assets/icons/postgresql.svg" width="14" height="14" valign="middle" /> PostgreSQL (pgvector)</code> · <code><img src="assets/icons/sqlite.svg" width="14" height="14" valign="middle" /> SQLite</code> · <code><img src="assets/icons/drizzle.svg" width="14" height="14" valign="middle" /> Drizzle ORM</code>
 
----
+- <img src="assets/icons/cloudflare.svg" width="20" height="20" valign="middle" /> **Cloud, Edge & Infra** — 边缘计算与云原生基建  
+  <code><img src="assets/icons/cloudflare.svg" width="14" height="14" valign="middle" /> Cloudflare (Workers / D1 / R2)</code> · <code><img src="assets/icons/docker.svg" width="14" height="14" valign="middle" /> Docker</code> · <code><img src="assets/icons/linux.svg" width="14" height="14" valign="middle" /> Linux</code> · <code><img src="assets/icons/tailscale.svg" width="14" height="14" valign="middle" /> Tailscale Zero-Trust</code>
 
 ### The Board of Directors / 首席猫咪督工天团
 
