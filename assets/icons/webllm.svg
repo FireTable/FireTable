@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%">
+  <rect x="3" y="3" width="18" height="18" rx="3.5" fill="#1e1b4b" stroke="#818CF8" stroke-width="1.4" />
+  <path d="M7 1v2m5-2v2m5-2v2M7 21v2m5-2v2m5-2v2M1 7h2m-2 5h2m-2 5h2M21 7h2m-2 5h2m-2 5h2" stroke="#A5B4FC" stroke-width="1.2" stroke-linecap="round" />
+  <rect x="7" y="7" width="10" height="10" rx="1.5" fill="#312E81" stroke="#C7D2FE" stroke-width="1" />
+  <text x="12" y="14.2" font-family="ui-monospace, monospace" font-size="6.5" font-weight="900" fill="#E0E7FF" text-anchor="middle">GPU</text>
+</svg>
