@@ -26,6 +26,10 @@
 
 ### Featured Projects / 旗舰作品
 
+- <img src="https://asr.firetable.tech/favicon.svg" width="16" height="16" alt="stream-asr" valign="middle" /> [**Stream ASR**](https://github.com/FireTable/stream-asr) <a href="https://github.com/FireTable/stream-asr/stargazers"><img src="https://img.shields.io/github/stars/FireTable/stream-asr?style=flat&label=%E2%AD%90&color=21262d&labelColor=161b22" valign="middle" alt="stars" /></a> · [Demo ↗](https://asr.firetable.tech) — **极速纯端侧流式语音识别引擎**  
+  在浏览器内直接运行的纯端侧流式语音识别。基于 MNN 与 SIMD128 神经加速，支持中文与英文同传、毫秒级 VAD 与离线隐私零音频上云。  
+  `TypeScript` · `WebAssembly` · `SIMD128` · `MNN Engine` · `Neural VAD` · `100% On-Device`
+
 - <img src="https://xiaochun.firetable.tech/favicon.png" width="16" height="16" alt="xiaochun" valign="middle" /> [**Project XiaoChun**](https://github.com/FireTable/project-xiaochun) <a href="https://github.com/FireTable/project-xiaochun/stargazers"><img src="https://img.shields.io/github/stars/FireTable/project-xiaochun?style=flat&label=%E2%AD%90&color=21262d&labelColor=161b22" valign="middle" alt="stars" /></a> · [Demo ↗](https://xiaochun.firetable.tech) — **100% 浏览器原生二次元 AI 伴侣**  
   端侧本地 WebLLM (Qwen3) + EMAGE 全身骨骼驱动 + Three.js / VRM 实时渲染。纯前端零后端架构，实现零服务器算力开销与隐私零泄露。  
   `TypeScript` · `WebLLM (Qwen3)` · `Three.js` · `VRM` · `Edge-TTS` · `Client-Side AI`
